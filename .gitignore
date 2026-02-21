@@ -23,3 +23,6 @@ logs/*.log
 __pycache__/
 *.py[cod]
 logs/queries
+# Local DuckDB files
+duckdb.db
+*.duckdb
